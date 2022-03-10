@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omkarnighot
 - 👀 I’m interested in Full Stack Web Development.
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning WebGl,Three.js
 - 📫 How to reach me ...  📧omkarnighot@gmail.com
 
 <!---
